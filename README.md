@@ -3,7 +3,7 @@
 I'm a self-taught web developer. I am looking for a job opportunity.
 E-mail: 2684awer@gmail.com
 <!--
-**rich2020s/rich2020s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rich2020s/rich2020s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 
 Here are some ideas to get you started:
 
