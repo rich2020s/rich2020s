@@ -1,4 +1,4 @@
-### Hi there I'm Rich👋
+# Hi there I'm Rich👋
 ### I am currently looking for a opportunity to working on web development.  
 * I'm a self-taught web developer. 
 * I love coding and enjoy learning new things about it!
