@@ -9,8 +9,8 @@
 
 ## Projects
 My pottfolio: in process.  
-Twitch Top Games: [live code]( https://rich2020s.github.io/twitch-top-games/public/) [source code](https://github.com/rich2020s/twitch-top-games)  
-Food Map: [live code](https://api.outshaker.tw/#/home) [source code](https://github.com/chachachater/foodmap)  
+Twitch Top Games: [live code]( https://rich2020s.github.io/twitch-top-games/public/), [source code](https://github.com/rich2020s/twitch-top-games)  
+Food Map: [live code](https://api.outshaker.tw/#/home), [source code](https://github.com/chachachater/foodmap)  
   
 ## How to reach me
 E-mail: 2684awer@gmail.com  
