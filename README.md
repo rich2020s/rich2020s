@@ -3,7 +3,7 @@
 * I'm a self-taught web developer. 
 * I love coding and enjoy learning new things about it!
 
-### Skills
+## Skills
 * HTML, CSS, JavaScript, React.
 * Express, Sequelize, MySQL.
 
