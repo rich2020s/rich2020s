@@ -9,6 +9,7 @@
 
 ## Projects
 My pottfolio: in process.  
+Game 2048: [live code](https://zealous-perlman-f4781c.netlify.app/), [source code](https://github.com/rich2020s/2048)  
 Twitch Top Games: [live code]( https://rich2020s.github.io/twitch-top-games/public/), [source code](https://github.com/rich2020s/twitch-top-games)  
 Food Map: [live code](https://api.outshaker.tw/#/home), [source code](https://github.com/chachachater/foodmap)  
   
