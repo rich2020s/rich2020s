@@ -8,7 +8,7 @@
 * Express, Sequelize, MySQL.
 
 ## Projects
-My pottfolio: in process.  
+My pottfolio: [live code](https://dreamy-shirley-80a496.netlify.app/).  
 Game 2048: [live code](https://zealous-perlman-f4781c.netlify.app/), [source code](https://github.com/rich2020s/2048)  
 Food Map: [live code](https://api.outshaker.tw/#/home), [source code](https://github.com/chachachater/foodmap)  
   
