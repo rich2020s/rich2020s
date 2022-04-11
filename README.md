@@ -1,4 +1,4 @@
-# Hi there I'm Rich👋
+# Hi there My name is Rich👋
 ### I am currently looking for a opportunity to working on web development.  
 * I'm a web developer. 
 * I love coding and enjoy learning new things about it!
