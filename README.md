@@ -1,11 +1,12 @@
 # Hi there My name is Rich👋
 ### I am currently looking for a opportunity to working on web development.  
-* I'm a web developer. 
+* I'm a full stack developer. 
 * I love coding and enjoy learning new things about it!
 
 ## Skills
-* HTML, CSS, JavaScript, React.
-* Express, Sequelize, MySQL.
+* HTML, CSS, JavaScript, React, Java, Spring Boot.
+* Express, Sequelize, MySQL, PosgresSQL.
+
 
 ## Projects
 My pottfolio: [live code](https://dreamy-shirley-80a496.netlify.app/).  
@@ -13,7 +14,7 @@ Game 2048: [live code](https://zealous-perlman-f4781c.netlify.app/), [source cod
 Food Map(Mandarin): [live code](https://api.outshaker.tw/#/home), [source code](https://github.com/chachachater/foodmap)  
   
 ## How to reach me
-E-mail: 2684awer@gmail.com  
+E-mail: richchan2022@gmail.com 
 LinkedIn: https://www.linkedin.com/in/rich-chan-3a4815229/  
   
 <!--
